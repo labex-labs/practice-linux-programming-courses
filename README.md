@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux is one of the world's most popular operating systems, used in everything from desktop computers to servers and mobile devices. This LabEx skill tree offers a unique hands-on approach to learning Linux through an online virtual environment. You'll master the command line interface and basic system administration tasks like software installation and user management. With LabEx, you can practice commands in real-time, receive instant feedback, and progress at your own pace. Ready to start your Linux journey? Click "Start" to dive into our interactive virtual environment and explore the power of Linux firsthand!
+Linux is a powerful, open-source operating system. This Skill Tree offers a comprehensive learning path for mastering Linux administration. Perfect for IT beginners, it provides a clear roadmap to understand command-line interfaces, system administration, and shell scripting. Through hands-on, non-video courses and practical exercises in an interactive shell playground, you'll gain real-world experience in managing Linux systems and automating tasks.
 
 |   Index | Name                                                                                                                | Level   | Repo                                                                                | Course Link                                                                     |
 |---------|---------------------------------------------------------------------------------------------------------------------|---------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -20,15 +20,15 @@ Linux is one of the world's most popular operating systems, used in everything f
 ## More Courses
 
 - [Practice Linux Programming Courses](https://github.com/labex-labs/practice-linux-programming-courses)
-- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice DevOps Programming Courses](https://github.com/labex-labs/practice-devops-programming-courses)
-- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
-- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
-- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
 - [Practice Cyber Security Programming Courses](https://github.com/labex-labs/practice-cysec-programming-courses)
-- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Python Programming Courses](https://github.com/labex-labs/practice-python-programming-courses)
 - [Practice Docker Programming Courses](https://github.com/labex-labs/practice-docker-programming-courses)
+- [Practice Data Science Programming Courses](https://github.com/labex-labs/practice-data-science-programming-courses)
 - [Practice Kubernetes Programming Courses](https://github.com/labex-labs/practice-kubernetes-programming-courses)
+- [Practice Big Data Programming Courses](https://github.com/labex-labs/practice-bigdata-programming-courses)
+- [Practice Machine Learning Programming Courses](https://github.com/labex-labs/practice-ml-programming-courses)
+- [Practice Web Development Programming Courses](https://github.com/labex-labs/practice-web-development-programming-courses)
 - [Practice Git Programming Courses](https://github.com/labex-labs/practice-git-programming-courses)
 - [Practice Ansible Programming Courses](https://github.com/labex-labs/practice-ansible-programming-courses)
 - [Practice Jenkins Programming Courses](https://github.com/labex-labs/practice-jenkins-programming-courses)
