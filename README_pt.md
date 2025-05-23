@@ -21,10 +21,6 @@ Linux é um sistema operacional poderoso e de código aberto. Esta Skill Tree of
 
 ## Mais
 
-
-
-## Mais
-
 - 🔗 [Linux Tutoriais Gratuitos](https://github.com/labex-labs/linux-free-tutorials)
 - 🔗 [Awesome Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
