@@ -22,6 +22,6 @@ Linux は強力なオープンソースのオペレーティングシステム�
 ## その他
 
 - 🔗 [Linux 無料チュートリアル](https://github.com/labex-labs/linux-free-tutorials)
-- 🔗 [Awesome プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [素晴らしいプログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [素晴らしいプログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
 
