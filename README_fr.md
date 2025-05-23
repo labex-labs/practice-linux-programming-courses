@@ -22,6 +22,6 @@ Linux est un système d'exploitation puissant et open - source. Cet arbre de com
 ## Plus
 
 - 🔗 [Linux Tutoriels Gratuits](https://github.com/labex-labs/linux-free-tutorials)
-- 🔗 [Awesome Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Projets de Programmation Formidables](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cours de Programmation Formidables](https://github.com/labex-labs/awesome-programming-courses)
 
