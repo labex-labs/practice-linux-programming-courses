@@ -21,10 +21,6 @@ Linux — это мощная операционная система с отк�
 
 ## Больше
 
-
-
-## Больше
-
 - 🔗 [Linux Бесплатные туториалы](https://github.com/labex-labs/linux-free-tutorials)
 - 🔗 [Awesome Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
