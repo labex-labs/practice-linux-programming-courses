@@ -21,10 +21,6 @@ Linux is a powerful, open - source operating system. This Skill Tree provides a 
 
 ## More
 
-
-
-## More
-
 - 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
