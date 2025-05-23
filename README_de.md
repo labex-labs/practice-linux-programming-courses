@@ -21,10 +21,6 @@ Linux ist ein leistungsstarkes, Open-Source-Betriebssystem. Dieser Skill Tree bi
 
 ## Mehr
 
-
-
-## Mehr
-
 - 🔗 [Linux Kostenlose Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - 🔗 [Awesome Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
