@@ -21,10 +21,6 @@ Linux es un sistema operativo potente y de código abierto. Este Skill Tree prop
 
 ## Más
 
-
-
-## Más
-
 - 🔗 [Linux Tutoriales Gratuitos](https://github.com/labex-labs/linux-free-tutorials)
 - 🔗 [Awesome Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
