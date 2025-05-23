@@ -22,6 +22,6 @@ Linux 是一款强大的开源操作系统。此技能树为掌握 Linux 系统�
 ## 更多
 
 - 🔗 [Linux 免费教程](https://github.com/labex-labs/linux-free-tutorials)
-- 🔗 [Awesome 编程项目](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [精选编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [精选编程课程](https://github.com/labex-labs/awesome-programming-courses)
 
