@@ -22,6 +22,6 @@ Linux 는 강력한 오픈 소스 운영 체제입니다. 이 Skill Tree 는 Lin
 ## 더 보기
 
 - 🔗 [Linux 무료 튜토리얼](https://github.com/labex-labs/linux-free-tutorials)
-- 🔗 [Awesome 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [멋진 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [멋진 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
 
