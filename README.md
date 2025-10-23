@@ -18,8 +18,7 @@ Learn Linux with this comprehensive learning path designed for beginners. These 
 |       4 | [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online)                | Beginner     | [🔗 Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [🚀 Start Lab](https://labex.io/courses/linux-basic-commands-practice-online) |
 |       5 | [Shell for Beginners](https://labex.io/courses/shell-for-beginners)                                     | Beginner     | [🔗 Repo](https://github.com/labex-labs/shell-for-beginners)                  | [🚀 Start Lab](https://labex.io/courses/shell-for-beginners)                  |
 |       6 | [CompTIA Linux+ Certification Training Labs](https://labex.io/courses/comptia-linux-plus-training-labs) | Beginner     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)     | [🚀 Start Lab](https://labex.io/courses/comptia-linux-plus-training-labs)     |
-|       7 | [CTF for Beginners](https://labex.io/courses/ctf-for-beginners)                                         | Beginner     | [🔗 Repo](https://github.com/labex-labs/ctf-for-beginners)                    | [🚀 Start Lab](https://labex.io/courses/ctf-for-beginners)                    |
-|       8 | [Linux Practice Challenges](https://labex.io/courses/linux-practice-challenges)                         | Beginner     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 Start Lab](https://labex.io/courses/linux-practice-challenges)            |
+|       7 | [Linux Practice Challenges](https://labex.io/courses/linux-practice-challenges)                         | Beginner     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 Start Lab](https://labex.io/courses/linux-practice-challenges)            |
 
 ## More
 
