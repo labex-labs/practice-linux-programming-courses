@@ -18,8 +18,7 @@
 |              4 | [Linux コマンドの練習](https://labex.io/ja/courses/linux-basic-commands-practice-online)                       | 初級     | [🔗 Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [🚀 ラボを開始](https://labex.io/ja/courses/linux-basic-commands-practice-online) |
 |              5 | [初心者向けシェル](https://labex.io/ja/courses/shell-for-beginners)                                            | 初級     | [🔗 Repo](https://github.com/labex-labs/shell-for-beginners)                  | [🚀 ラボを開始](https://labex.io/ja/courses/shell-for-beginners)                  |
 |              6 | [CompTIA Linux+ 認定トレーニングラボ](https://labex.io/ja/courses/comptia-linux-plus-training-labs)            | 初級     | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)     | [🚀 ラボを開始](https://labex.io/ja/courses/comptia-linux-plus-training-labs)     |
-|              7 | [初心者向け CTF](https://labex.io/ja/courses/ctf-for-beginners)                                                | 初級     | [🔗 Repo](https://github.com/labex-labs/ctf-for-beginners)                    | [🚀 ラボを開始](https://labex.io/ja/courses/ctf-for-beginners)                    |
-|              8 | [Linux 実践チャレンジ](https://labex.io/ja/courses/linux-practice-challenges)                                  | 初級     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 ラボを開始](https://labex.io/ja/courses/linux-practice-challenges)            |
+|              7 | [Linux 実践チャレンジ](https://labex.io/ja/courses/linux-practice-challenges)                                  | 初級     | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 ラボを開始](https://labex.io/ja/courses/linux-practice-challenges)            |
 
 ## その他
 
