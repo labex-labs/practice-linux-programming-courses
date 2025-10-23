@@ -17,9 +17,8 @@
 |      3 | [Linux 新手入门](https://labex.io/zh/courses/linux-for-noobs)                               | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-for-noobs)                      | [🚀 开始实验](https://labex.io/zh/courses/linux-for-noobs)                      |
 |      4 | [Linux 命令练习](https://labex.io/zh/courses/linux-basic-commands-practice-online)          | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-basic-commands-practice-online) | [🚀 开始实验](https://labex.io/zh/courses/linux-basic-commands-practice-online) |
 |      5 | [Shell 入门](https://labex.io/zh/courses/shell-for-beginners)                               | 初级   | [🔗 Repo](https://github.com/labex-labs/shell-for-beginners)                  | [🚀 开始实验](https://labex.io/zh/courses/shell-for-beginners)                  |
-|      6 | [CompTIA Linux+ 认证培训实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)     | [🚀 开始实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)     |
-|      7 | [CTF 入门指南](https://labex.io/zh/courses/ctf-for-beginners)                               | 初级   | [🔗 Repo](https://github.com/labex-labs/ctf-for-beginners)                    | [🚀 开始实验](https://labex.io/zh/courses/ctf-for-beginners)                    |
-|      8 | [Linux 实践挑战](https://labex.io/zh/courses/linux-practice-challenges)                     | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 开始实验](https://labex.io/zh/courses/linux-practice-challenges)            |
+|      6 | [CompTIA Linux+ 认证实战实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs) | 初级   | [🔗 Repo](https://github.com/labex-labs/comptia-linux-plus-training-labs)     | [🚀 开始实验](https://labex.io/zh/courses/comptia-linux-plus-training-labs)     |
+|      7 | [Linux 实践挑战](https://labex.io/zh/courses/linux-practice-challenges)                     | 初级   | [🔗 Repo](https://github.com/labex-labs/linux-practice-challenges)            | [🚀 开始实验](https://labex.io/zh/courses/linux-practice-challenges)            |
 
 ## 更多
 
